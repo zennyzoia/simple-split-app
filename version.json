@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/zennyzoia/simple-split-app/releases/download/v2.1/app-release.apk",
-  "releaseNotes": "Thanks for testing :)"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/zennyzoia/simple-split-app/releases/download/v2.2/app-release.apk",
+  "releaseNotes": "• Switched app logo back to default Android launcher icon\n• Version v2.2 stability updates"
 }
